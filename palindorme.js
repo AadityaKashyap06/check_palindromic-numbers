@@ -1,4 +1,4 @@
-let arr=[121,123,123,343,12321];
+let arr=[12321,123,122,343,12321];
 let count=0;
 for(let i=0;i<arr.length;i++){
 let ans="";
